@@ -11,4 +11,7 @@ Currently, two official plugins are available:
 npm create vite@latest
 React
 JavaScript
+...
+npm install -D tailwindcss postcss autoprefixer
+
 -->
