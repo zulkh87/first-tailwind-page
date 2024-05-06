@@ -14,4 +14,6 @@ JavaScript
 ...
 npm install -D tailwindcss postcss autoprefixer
 
+https://ancientegyptianfacts.com/ancient-egyptian-sayings-and-proverbs.html
+
 -->
