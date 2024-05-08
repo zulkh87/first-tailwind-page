@@ -13,6 +13,7 @@ const Player = () => {
     time,
     previous,
     next,
+    seekSong,
   } = useContext(PlayerContext);
 
   return (
@@ -67,6 +68,7 @@ const Player = () => {
           </p>
           <div
             ref={seekBg}
+            onClick={seekSong}
             className="w-[60vw] max-w-[500px] bg-gray-300 rounded-full cursor-pointer"
           >
             <hr
